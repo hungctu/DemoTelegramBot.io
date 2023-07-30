@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #FFFFFF;
+    background: #000080
+}
+.container{
+    max-width: 390px;
+}
+.inner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 250px 250px 250px;
+}
+.img{
+    width:130px;
+}
+.name{
+    font-size: 15px;
+}
+.item{
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700px;
+
+    transition: background .2s linear;
+}
+.btn:hover{
+    background: rgb(245, 22, 22)
+}
+.btn::focus{
+    background: rgb(245, 22, 22)
+}
+.usercard{
+    text-align: center;
+}
+/*
+var(--tg-theme-bg-color)
+var(--tg-theme-text-color)
+var(--tg-theme-hint-color)
+var(--tg-theme-link-color)
+var(--tg-theme-button-color)
+var(--tg-theme-button-color)
+*/
