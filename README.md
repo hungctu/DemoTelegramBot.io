@@ -1,5 +1,5 @@
 # DemoTelegramBot.io
-This project is a Telegram web application that allows users to buy products. It was created by me who has no experience with telegram webapp. so this is a good example of how to get started with technology.
+This project is a Telegram bot that orders fast food. It was created by me who has no experience with telegram webapp. so this is a good example of how to get started with technology.
 
 
 ## Tech Used
