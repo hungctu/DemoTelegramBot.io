@@ -7,5 +7,5 @@ This project is a Telegram web application that allows users to buy products. It
 
 
 ## Installation:
-1. To install the dependencies for this project, run the following command:`pip install -r requirements.txt`
-2. To run this project, run the following command: python main.py
+1. To install the dependencies for this project, run the following command: `pip install -r requirements.txt`
+2. To run this project, run the following command: `python main.py`
