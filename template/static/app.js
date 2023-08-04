@@ -17,7 +17,7 @@ btn1.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Charizard");
+        tg.MainButton.setText("You add Donut");
         item = "1";
         tg.MainButton.show();
     }
@@ -27,7 +27,7 @@ btn2.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Garchomp");
+        tg.MainButton.setText("You add Fries");
         item = "2";
         tg.MainButton.show();
     }
@@ -37,7 +37,7 @@ btn3.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Gengar");
+        tg.MainButton.setText("You add Hambuger");
         item = "3";
         tg.MainButton.show();
     }
@@ -47,7 +47,7 @@ btn4.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Gradevoir");
+        tg.MainButton.setText("You add Hotdog");
         item = "4";
         tg.MainButton.show();
     }
@@ -57,7 +57,7 @@ btn5.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Lucario");
+        tg.MainButton.setText("You add IceCream");
         item = "5";
         tg.MainButton.show();
     }
@@ -67,7 +67,7 @@ btn6.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else{
-        tg.MainButton.setText("You add Mewtwo");
+        tg.MainButton.setText("You add Pizza");
         item = "6";
         tg.MainButton.show();
     }
