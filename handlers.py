@@ -13,7 +13,7 @@ dp = Dispatcher(bot,loop)
 @dp.message_handler()
 async def start(message: Message):
     await bot.send_message(message.chat.id,
-                           "Welcome to Pokemon NFT", reply_markup=keyboard)
+                           "Welcome to Hambugu", reply_markup=keyboard)
 
 @dp.message_handler(content_types='web_app_data')
 async def buy(web_app_message):
